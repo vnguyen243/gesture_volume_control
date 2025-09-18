@@ -27,9 +27,9 @@ Built with **OpenCV** and **MediaPipe**.
    source venv/bin/activate   # On Windows: venv\Scripts\activate
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.tx
+   pip install -r requirements.txt
 4. **Run the scripts**
    ```bash
    python volume_control.py
 5. **Exit**
-   Pres **Esc** to close the program
+   Pres **Ctrl+C** to close the program
